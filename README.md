@@ -32,9 +32,9 @@ Questo file consente di installare questi Tools di Windows anche se siamo offlin
 6. Spostare il File `RSAT-install.ps1` dentro la cartella `LanguagesAndOptionalFeatures`;
 7. Aprire Windows Powershell in modalità amministratore;
 8. Usare i seguenti comandi in ordine:
-    1. cd c:\Temp
-    2. cd LanguagesAndOptionalFeatures
-    3. cd .\RSAT-install.ps1
+    1. `cd c:\Temp`
+    2. `cd LanguagesAndOptionalFeatures`
+    3. `cd .\RSAT-install.ps1`
 9. I tools sono finalmente scaricati!
 
 
