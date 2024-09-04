@@ -1,6 +1,5 @@
-# Informazioni RSAT
+# Informazioni RSAT (Italiano)
 
-**ITALIAN**
 
 ## Cosa è RSAT?
 
@@ -12,15 +11,14 @@ RSAT significa **R**emote **S**erver **A**dministation **T**ool.
 
 **Cosa serve RSAT?**  
 RSAT è un tool windows che permette di gestire dei Ruoli e delle Features agli amministratori IT
-[What is RSAT](https://www.techtarget.com/searchwindowsserver/definition/RSAT-Microsoft-Remote-Server-Administration-Tools) (Inglese)
+[what is RSAT](https://www.techtarget.com/searchwindowsserver/definition/RSAT-Microsoft-Remote-Server-Administration-Tools) (Inglese)
 
 **Cosa serve questo *RSAT-install.ps1*?**  
 Questo file consente di installare questi Tools di Windows anche se siamo offline.
 
 
-# RSAT Informations
+# RSAT Informations (English)
 
-**ENGLISH**
 
 ## What's RSAT?
 
