@@ -46,7 +46,7 @@ This file let install these Windows Tools even if we're offline.
 
 ## Altro / Other 
 
-Credits: *Erik Carina* (RSI) ![RSI logo](https://upload.wikimedia.org/wikipedia/en/e/ec/RSI_logo.svg)
+Credits: *Erik Carina* (RSI)
 
 [RSI](rsi.ch)
 
