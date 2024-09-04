@@ -22,6 +22,23 @@ Visto che semplifica l'amministrazione dei server di windows, possono salvare te
 Questo file consente di installare questi Tools di Windows anche se siamo offline.
 
 
+## Come scaricarlo
+
+1. Creare una cartella con nome `Temp` nel disco locale del pc;
+2. Scaricare dal Volume licesing di Microsoft;
+3. Spostare il file appena scaricato nella cartella `Temp`e schiacciare il pulsante "monta";
+4. Entrare nell'unità appena scaricata;
+5. Spostare la cartella `LanguagesAndOptionalFeatures` sotto la cartella `temp`;
+6. Spostare il File `RSAT-install.ps1` dentro la cartella `LanguagesAndOptionalFeatures`;
+7. Aprire Windows Powershell in modalità amministratore;
+8. Usare i seguenti comandi in ordine:
+    1. cd c:\Temp
+    2. cd LanguagesAndOptionalFeatures
+    3. cd .\RSAT-install.ps1
+9. I tools sono finalmente scaricati!
+
+
+
 # *RSAT* Informations (English)
 
 
