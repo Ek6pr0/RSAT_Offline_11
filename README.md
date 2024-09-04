@@ -5,7 +5,7 @@
 
 ### Significato RSAT
 
-RSAT significa **R**emote **S**erver **A**dministation **T**ool.
+RSAT significa **R**emote **S**erver **A**dministation **T**ool. In italiano "oggetto di amministrazione del server remota".
 
 ### Scopo RSAT
 
