@@ -18,7 +18,7 @@ RSAT è un tool windows che permette di gestire dei Ruoli e delle Features agli 
 Questo file consente di installare questi Tools di Windows anche se siamo offline.
 
 
-# Informations RSAT
+# RSAT Informations
 
 **ENGLISH**
 
