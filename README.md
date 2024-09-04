@@ -25,7 +25,7 @@ Questo file consente di installare questi Tools di Windows anche se siamo offlin
 ## Come scaricarlo
 
 1. Creare una cartella con nome `Temp` nel disco locale del pc;
-2. Scaricare dal Volume licesing di Microsoft;
+2. Scaricare dal Volume licesing di Microsoft il file `Language and Optional Features ISO`;
 3. Spostare il file appena scaricato nella cartella `Temp`e schiacciare il pulsante "monta";
 4. Entrare nell'unità appena scaricata;
 5. Spostare la cartella `LanguagesAndOptionalFeatures` sotto la cartella `temp`;
