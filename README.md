@@ -60,6 +60,21 @@ Questo file consente di installare questi Tools di Windows anche se siamo offlin
 **What's this *RSAT-install.ps1*?**  
 This file let install these Windows Tools even if we're offline.
 
+## How to install
+
+1. Create a Directory by name `Temp` inside the local disc;
+2. Install from Volume licesing by Microsoft the `Language and Optional Features ISO` file;
+3. Move the file just downloaded inside the `Temp` Directory and press the "mount" option.;
+4. Enter in the unity you just installed;
+5. Move the `LanguagesAndOptionalFeatures`under the `Temp` Directory;
+6. Move the `RSAT-install.ps1` inside the `LanguagesAndOptionalFeatures`;
+7. Open Windows Powershell as Administrator;
+8. Use the folowing commands in order:
+    1. `cd c:\Temp`
+    2. `cd LanguagesAndOptionalFeatures`
+    3. `cd .\RSAT-install.ps1`
+9. The tools are finally installed!
+
 
 ## Altro / Other 
 
